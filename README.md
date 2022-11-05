@@ -1,4 +1,4 @@
-# หัวข้อ Coffe Appications
+# หัวข้อ Coffe Applications
 
 ## Use Case Diagram
 
